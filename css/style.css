@@ -2,8 +2,7 @@ body{
     background-color: #eee;
     }
     
-    
-    
+   
     #header-img{
       position: left;
       width: 300; 
@@ -39,6 +38,7 @@ body{
     #form {
     padding: 100px;
     position: center;
+<<<<<<< HEAD
     display: flex;
     }
     
@@ -50,3 +50,7 @@ body{
     
     
     
+=======
+    display: block;
+    }
+>>>>>>> 8066800ee17767312eb368d46000c1d358cc7797
