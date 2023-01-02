@@ -39,7 +39,7 @@ body{
     #form {
     padding: 100px;
     position: center;
-    display: block;
+    display: flex;
     }
     
     
