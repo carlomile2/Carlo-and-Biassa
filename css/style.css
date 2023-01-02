@@ -1,16 +1,42 @@
-#header-img{
-    position: left;
-    width: 300; 
-  }
-  
-  header {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-    padding: 1em;
-  }
-  
-  #nav-bar li{
-  position: 
-  }
+body{
+    background-color: #eee;
+    }
+      
+   
+    #header-img{
+      position: left;
+      width: 300; 
+    }
+    
+    header {
+      position: fixed;
+      width: 100%;
+      top: 0;
+      left: 0;
+      padding: 1em;
+    }
+    
+    #nav-bar {
+      padding: 2px;
+      text-align: right;
+      width: 100%;  
+    }
+    
+    .nav-ul{
+      list-style: none;
+      display: inline-flex;
+    }
+    
+    .nav-link{
+       padding: 0px 26px;
+       position: right;
+    }
+    
+    a {
+      text-decoration: none;
+    }
+    #form {
+    padding: 100px;
+    position: center;
+    display: block;
+    }
